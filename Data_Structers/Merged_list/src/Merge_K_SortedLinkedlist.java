@@ -35,7 +35,7 @@ public class Merge_K_SortedLinkedlist {
 
         return head;
     }
-
+   // defination NODE
     private class Node {
         private int data;
         private Node next;
@@ -44,5 +44,6 @@ public class Merge_K_SortedLinkedlist {
             this.data = d;
             next = null;
         }
-    }
-}
+    } 
+} 
+
