@@ -17,7 +17,8 @@ public class Doubly_Linkedlist {
             kutucuk.next = head;
             head = kutucuk;
         }
-    }
+    } 
+
 
     public void add_element_to_last(Node kutucuk){
        if (head == null){
